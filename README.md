@@ -1,2 +1,2 @@
 # budget
-Budgety - Design by Jonas Schmedtmann
+Budgety - Design by Jonas Schmedtmann, coding by Ben Ireland.
